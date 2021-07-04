@@ -1,2 +1,2 @@
 # MMO-Bungeecord
-Plugin MMORPG suf Bungeecord pour le serveur Monster-MC
+Plugin MMORPG sur Bungeecord pour le serveur Monster-MC
