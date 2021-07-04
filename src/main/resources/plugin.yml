@@ -1,0 +1,8 @@
+name: MMO-Bungeecord
+main: fr.monstermc.mmobungee.Main
+version: 0.0.1-DEV
+description: Plugin MMO-Bungeecord pour le serveur Monster-MC, fait en par Overcraftor#4841 et HtX_HatoX#9999
+author: Overcraftor
+authors:
+  - Overcraftor
+  - HtX_HatoX
